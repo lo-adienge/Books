@@ -1,0 +1,248 @@
+Return-Path: <OdessaNorman@outlook.com>
+Delivered-To: info@samwell210furnishedapartments.com
+Received: from rs1.rcnoc.com
+	by rs1.rcnoc.com with LMTP
+	id uEQ6FEbOEWUe8hEATlETxg
+	(envelope-from <OdessaNorman@outlook.com>)
+	for <info@samwell210furnishedapartments.com>; Mon, 25 Sep 2023 21:15:34 +0300
+Return-path: <OdessaNorman@outlook.com>
+Envelope-to: info@samwell210furnishedapartments.com
+Delivery-date: Mon, 25 Sep 2023 21:15:34 +0300
+Received: from mail-db5eur01olkn2027.outbound.protection.outlook.com ([40.92.64.27]:32512 helo=EUR01-DB5-obe.outbound.protection.outlook.com)
+	by rs1.rcnoc.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <OdessaNorman@outlook.com>)
+	id 1qkq7I-004y1D-3A
+	for info@samwell210furnishedapartments.com;
+	Mon, 25 Sep 2023 21:15:34 +0300
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=F9drcMyYJo3cu5VfZi4yeGfQhgy0XCWLVzt09N5mXC44tRzqG5d1w4L8jOVKs+9BNKNgYm7oEZhW3uyVQacXl5snwUvpZEt7BV5e2FuuCA301GG+n7ghVzO3fgBVcvGP7FSQdmJnuq5mJf9pe0jISFcmplkNEreIUbOktZNHUBxQqvIfnKqRcYgt8QBxRHiAuqg4js2iQbLv72CKCPVeprGbs8CnRJvGPiA2Mv4YHTGr6G0RKdISOK5IplCnUraR0tC4QcoDRquH6u5RBBv/6I/MsQFFebp0tPGOtnBgLERV/KFzCwAuQylOsSgk23q40MKKJ5uNeNshO3M5d3p/eg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=sdSuvZwm5YU3XXjez1qrNUv7gohcM+s4QAdqTVUSeE8=;
+ b=nHO9WRpAZ35dvSXqHXuupY2MI9rhhLGi3OC5kWyf5irr13Y2xR9/Zp5D+7TklHN4vnv3bsi+8T9qizMtbHi0mXkPd4PpqKOKHmQ5ezeirxhgQaFj2W5UY7s0C+Brx/k6Ehg4aumQ3tBPh5TEV6PnewlVPhToHv+hs8IdzmAFyxa9J5ZsWTDbqI/HhkFh16w1eRqfVIMK+o9BVpAfinK772lCwrux1vS1ZjHiXkyDuxVOpXEDot9SV/nVELUfQcFGIo3+kQNLqqsSQSuFGZ1E8/O1Qqmh0usOkD3LiEyvLzxfS/oy1rd9Y8pIjuAl2KQYbUk7aPonCmY1+l53qRomng==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=sdSuvZwm5YU3XXjez1qrNUv7gohcM+s4QAdqTVUSeE8=;
+ b=NU0pT7tWwr2rwZBGNni/P5YkN83jyHROc5IQBGM8c6UYgwS22i6K10UyJbQJ22/kLGnwMkMrOstl2i80CmXMTK1ZvebyZOzGFsyL2v3anHzREP4oJNo1Jl1DkJRb4yq5ofvAvNKt0jIorf3YVuTcBrklyeGlwVaXNns2Rlt48eeqVzKNGzGbWjszpwQIaZWBjfChl0BQgkLeBGHHCplz82M2jtcitXGrOEHL4V4GHgop0XH0zOVJzOI+7goaAEr3o/N8ij/WYAnoU+gP5fBYsG9+edpT0BiwV5vFLGugRsYxD8HdT3UtIhNbSujBM6YxdS2Fv+Aw9pahf8XON7OyhQ==
+Received: from PAXP195MB1437.EURP195.PROD.OUTLOOK.COM (2603:10a6:102:28a::7)
+ by AM8P195MB0835.EURP195.PROD.OUTLOOK.COM (2603:10a6:20b:1e8::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6813.28; Mon, 25 Sep
+ 2023 18:13:42 +0000
+Received: from PAXP195MB1437.EURP195.PROD.OUTLOOK.COM
+ ([fe80::cb89:a15b:a89:dd15]) by PAXP195MB1437.EURP195.PROD.OUTLOOK.COM
+ ([fe80::cb89:a15b:a89:dd15%3]) with mapi id 15.20.6813.027; Mon, 25 Sep 2023
+ 18:13:42 +0000
+From: "Odessa" <OdessaNorman@outlook.com>
+To: <info@samwell210furnishedapartments.com>
+Subject: Re:1st page- price!!
+Date: Mon, 25 Sep 2023 23:42:17 +0530
+Message-ID:
+ <PAXP195MB14373BF56C827DAA060E62B9C2FCA@PAXP195MB1437.EURP195.PROD.OUTLOOK.COM>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02E5_01D9F00A.0DC39140"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Adnv280kRaJLYUFZS6Kx5M/XZT3PuA==
+Content-Language: en-in
+X-TMN: [zZHCcufQcFEBrijzkHYMcUHHu4+IkKXc]
+X-ClientProxiedBy: PN0PR01CA0019.INDPRD01.PROD.OUTLOOK.COM
+ (2603:1096:c01:4e::17) To PAXP195MB1437.EURP195.PROD.OUTLOOK.COM
+ (2603:10a6:102:28a::7)
+X-Microsoft-Original-Message-ID: <02e401d9efdb$f40b5540$dc21ffc0$@com>
+MIME-Version: 1.0
+X-MS-Exchange-MessageSentRepresentingType: 1
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: PAXP195MB1437:EE_|AM8P195MB0835:EE_
+X-MS-Office365-Filtering-Correlation-Id: c4f5e520-92eb-4d0b-1e21-08dbbdf316a7
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info:
+	dNmKSpxFWKVdQHrrZYSr75rcm4dwLPISZMQM240JIC15kl5FSHn0uHVz5mmyURi0EIfbEpiroq2M3F5zUn29zCo1fTmuyTI67OwJVt7DxhraZvQr5+x+LId/AkEymZzA85TgH3UTVLgsDaMhEFCbHp24gKdQxoS8SB6WrkfFRAdAdinWWB+mjeMvPF6uDzUg8x8LAq0dum931AJ7o1nKK1ptVOenqvt4VCCHWmvUEr6Ny38dDWQzg8kXD3cI+mZOQxNOpYpLW+RbLB05BlgXpLS1/o/SWYfU75qpGbrhxza9X60YtxRcLeBreagTxYQ8ISn8sF3SjroWly55qgwydzyUtVRGTOjSjzlX9gLYtIkGcxJm4L8wzqGchcRqI6YYJbY7ZXH3G045G0rwMUk0j98WoVEFOxSpukUlJc0oJvlfvtHdQ6KweZRJOqh8XsBmscnv29S4BRlily2tzPtEwS74n/J4nSkLkDimCrEQsxYkUAEKneOSlVigyIJ3L2gKN7wPxEaTMkrukn4NjjcUSTutueXT1fTc5UZ53oOMIo4U9fIO2wRxqgj2jY0I80fV
+X-MS-Exchange-AntiSpam-MessageData-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-0:
+	=?us-ascii?Q?mp3PnsCYy7bZrHav/JpqGoouXTRu19Ue2wfV2UgVp14h2FB082T1x9GsNd9/?=
+ =?us-ascii?Q?NdbzbbFkdhB2dlyRpaN6DLHF70TuXQZmcIieove4vivJndfrvQ7wP4a6cVYZ?=
+ =?us-ascii?Q?DgJqBhysHqYfn5cKtHOQRMIpfUMuWm6LV+StguoLmYtE/VRpwdKEnEByvaJe?=
+ =?us-ascii?Q?aNb2Uaux6NNhg81pOMgch6t7iILvRn1OS9Q8U8SUT1DN0DKld80URPgOypx2?=
+ =?us-ascii?Q?FNyAmfL9Fn2IaGtCMnZLKAERmQuGs+StUr6ekg6hLmH2jzyrt2z5DYAQ/9cz?=
+ =?us-ascii?Q?S9qKMNgojVLf89Z3HuVoMmmyH8jjxfSh7lCoGGPSBerndQxbZ1tuqjiFvNKF?=
+ =?us-ascii?Q?wLifyo9WAjutEqZKQFPKtC3Q4vLvqXeKDg1GEB0sddFfcIR11lSH2bxlluuC?=
+ =?us-ascii?Q?rFfoDqSBqRqjOp0lxC5VHW/SolV5Dk4cA0zNS145FDuUulU9/uFhlpMZKrfA?=
+ =?us-ascii?Q?XW4MSEjFfKPbM4QwhR7/7PbV2x/4oQFWAEDJLFgUYFcmRu1JBFx/0Gu82KM7?=
+ =?us-ascii?Q?80Y/86npyWRBRkyyFyR2ouRcizcTR4McjgNLEV5yuqFezKlbyEpVefvJs9Zn?=
+ =?us-ascii?Q?aZj7w5f6xvQPSUfYFnSnHwNZV11wGST0Ed7l/B7lG1iLtmjqTdQNnelgAFx/?=
+ =?us-ascii?Q?bEVTDam2Rtj+ZljsORF5lPRgsRCwMZP+njUsj5uf3JrhvIqGXavLBFdcTpHS?=
+ =?us-ascii?Q?RmxfFZXBE8hDRAA+F55XBAlS5qaGhIGz+YPrU8CLDTK3r8SEEAre9diE8yJR?=
+ =?us-ascii?Q?ZN5dG2FK/VJ26aqFKBQUTb1/bP9YOe+kHAueatbjjapX3GcdTB37xNbvgOAP?=
+ =?us-ascii?Q?CQnk3JxxE+9NCmmwI5zmQV2GTMOHDPDlXT8Pi1UQsZpeIGODZ0RT5bRBR9YK?=
+ =?us-ascii?Q?fvSMH0GAUxfR2sBz/pKBxL2PaXOXDnYb4a+7QfiA/zBHB6LUOC/HXe6ya7tS?=
+ =?us-ascii?Q?hhnDi89qrsNKcIPxrsbnTNC7tjkQvAFU48yfCkNehP659maLxfZRHu6/OLhp?=
+ =?us-ascii?Q?ClK5IKuTAGjsxVx+Q6PSvxMpXyjHkarepdZeG2fh1PlY+2iH1zlzHKAl3Liz?=
+ =?us-ascii?Q?Bt1UxZeiqnHPnxBqS6MEme3tdzdIaM1nmC4CATTtubwOuXkwMKr4d1oBYCd5?=
+ =?us-ascii?Q?KLi4fFmeZm+awPSqEBIBhpdOei+9Pr0PP9Tv5coLL8vWn6kM7t2cG26boBAu?=
+ =?us-ascii?Q?9w/sDCIDAg5cvqVZjXfuWXoVqYHSSZbHvrzhXwlwYMAX5T+q9bfcAFSHzkA?=
+ =?us-ascii?Q?=3D?=
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: c4f5e520-92eb-4d0b-1e21-08dbbdf316a7
+X-MS-Exchange-CrossTenant-AuthSource: PAXP195MB1437.EURP195.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Sep 2023 18:13:16.2031
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:
+	00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM8P195MB0835
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "rs1.rcnoc.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi, I went looking through your website, and personally feel
+    that your company and its website have a lot of guarantee. With your permission,
+    I'd like to send you an SEO analysis on your website which includes rates
+    and lists some suggestions for how to greatly improve your ranking in these
+    search results. 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [odessanorman[at]outlook.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+X-Spam-Flag: NO
+
+------=_NextPart_000_02E5_01D9F00A.0DC39140
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi, 
+
+I went looking through your website, and personally feel that your company
+and its website have a lot of guarantee.
+
+With your permission, I'd like to send you an SEO analysis on your website
+which includes rates and lists some suggestions for how to greatly improve
+your ranking in these search results.
+
+Your website can be positioned on the front page of Google (Yahoo, etc.).
+
+Can I send you a quote? if you have an interest.
+
+Thanks
+
+
+------=_NextPart_000_02E5_01D9F00A.0DC39140
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3D"EN-US">
+
+<div class=3D"Section1">
+
+<p class=3D"MsoNoSpacing">Hi, </p>
+
+<p class=3D"MsoNoSpacing">I went looking through your website, and personal=
+ly feel
+that your company and its <b><span style=3D"background:yellow;mso-highlight=
+:yellow">website
+have a lot of guarantee.</span><o:p></o:p></b></p>
+
+<p class=3D"MsoNoSpacing"><b><o:p></o:p></b></p>
+
+<p class=3D"MsoNoSpacing"><u><span style=3D"color:#0070C0">With your permis=
+sion, I'd
+like to send you an SEO analysis on your website which includes rates and l=
+ists
+some suggestions for how to greatly improve your ranking in these search
+results.<o:p></o:p></span></u></p>
+
+<p class=3D"MsoNoSpacing"><u><span style=3D"color:#0070C0"><o:p></o:p></spa=
+n></u></p>
+
+<p class=3D"MsoNoSpacing">Your website can be positioned on the front page =
+of
+Google (Yahoo, etc.).</p>
+
+<p class=3D"MsoNoSpacing">Can I send you a quote? if you have an interest.<=
+/p>
+
+<p class=3D"MsoNoSpacing">Thanks</p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_02E5_01D9F00A.0DC39140--

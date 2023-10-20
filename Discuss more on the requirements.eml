@@ -1,0 +1,282 @@
+Return-Path: <rohanpanday90@outlook.com>
+Delivered-To: info@samwell210furnishedapartments.com
+Received: from rs1.rcnoc.com
+	by rs1.rcnoc.com with LMTP
+	id 4DuCJR63CmUu/ikATlETxg
+	(envelope-from <rohanpanday90@outlook.com>)
+	for <info@samwell210furnishedapartments.com>; Wed, 20 Sep 2023 12:10:54 +0300
+Return-path: <rohanpanday90@outlook.com>
+Envelope-to: info@samwell210furnishedapartments.com
+Delivery-date: Wed, 20 Sep 2023 12:10:54 +0300
+Received: from mail-mw2nam12olkn2029.outbound.protection.outlook.com ([40.92.23.29]:38016 helo=NAM12-MW2-obe.outbound.protection.outlook.com)
+	by rs1.rcnoc.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <rohanpanday90@outlook.com>)
+	id 1qitEV-00Bk6D-14
+	for info@samwell210furnishedapartments.com;
+	Wed, 20 Sep 2023 12:10:54 +0300
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=KXWBH1JAepjJBJ/tDXVg4Ok/a0RMh66i2CxHzrwL5WeWsyV6KInM36pGPeI/RbyjWlZ6nnrFZuS5ro+2JLCmZTb6vV2+4xGRpqFWhslnBVDuxBk53K5idxBJJXZzenn5Yfe9c9L/xiZ4TXKQWt89IpxStoZjedShBNcItK7xfkdQdkNsPBvUWhmURxHSFq+yABr9bji9Y7nHZXQ3kj9rgmyx7H9AgXv25+Kwi66BY+DPvev6SaCH+PFJx9K6gdF8kRbrrqehFjtdimMYcmF3bfUlS88iMJouQt9qGVDqMlJr52QDMJz9xYHGY1MBxWIkY99dku6O9Eif6Z41u6EIXw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=z++lC55LHRgr8K4xZZ6m2o00y/ICO3XfEHpbIetw9bE=;
+ b=MZynO5tniCd3i4j52K2+3QCyRFXGxjziV0pq0+QCLWTTJEbUIHBbYUegvDsaGRLup4vYYyaqTv/E5Kq3KYRYAS/0Yve0ITxm6nwCORPmfHMrHnSUdnfSeLMBgzw4GN5tvVLLyHmSIJPjktR0u8+YWBxKnbGX5PxTOPJmWKkWT5/r2okmsZIXuX14XD+SR8oHwl2HgBYtb6bkUe6YFGteC8s0fN7bYgBGtnuULBSMYWr7d+tjJdbQYbwvRfn3Gmw3P3Zc8IHAThf/krIvfoTVopt4GvUhSVQZD7SMq9du84omyS+Whh9tE+d85iPo7Zc9fZRXuJlOD+jH1CeqFSpYTw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=z++lC55LHRgr8K4xZZ6m2o00y/ICO3XfEHpbIetw9bE=;
+ b=TzViTCwVmvC1Amh5WTlet4GeWJuyQSwr2FvISciTiEApNURRdyLbrlnQAB0bdDu2mdHnifS6pEnnk+N+/slw6kUMKRAH/zX59PuFa7pkN+IB7kZT+ey3ADjkzXdFb0884xMh1ojbrRWXv+vTXQdb47KDtQe+AXonRTmhDgJj1xa/7i6iAZSIom1hcZUSKDFL5NTkZvrVmqAxRY+3Y0tq/QI26nqitAHc6kCA44b6fz/YZCegZyKeOv4bh+/1K2ByC+Y23ky+xdhZMqB/+V+s0BJJj814MBZQrpFduLX/vtsEvX7kH3WE50vOETzWo1ua++EvICCcAiu2T6aWrp+Kkg==
+Received: from DS0PR02MB9545.namprd02.prod.outlook.com (2603:10b6:8:f2::9) by
+ SJ0PR02MB8644.namprd02.prod.outlook.com (2603:10b6:a03:3fe::20) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6792.30; Wed, 20 Sep
+ 2023 09:09:54 +0000
+Received: from DS0PR02MB9545.namprd02.prod.outlook.com
+ ([fe80::6789:4f02:9da9:7c5f]) by DS0PR02MB9545.namprd02.prod.outlook.com
+ ([fe80::6789:4f02:9da9:7c5f%4]) with mapi id 15.20.6792.021; Wed, 20 Sep 2023
+ 09:09:54 +0000
+From: Rohan Panday <rohanpanday90@outlook.com>
+Subject: Discuss more on the requirements
+Thread-Topic: Discuss more on the requirements
+Thread-Index: AQHZ66GmlVRIbZqxFEyHYwbN0r0iCg==
+Date: Wed, 20 Sep 2023 09:09:53 +0000
+Message-ID:
+ <DS0PR02MB95456FCEDFB286ECA56D7700ACF9A@DS0PR02MB9545.namprd02.prod.outlook.com>
+Accept-Language: en-IN, en-US
+Content-Language: en-IN
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+msip_labels:
+x-tmn: [tKevVV9ktUolfqw0VYDyOz0K2EleBYoK]
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: DS0PR02MB9545:EE_|SJ0PR02MB8644:EE_
+x-ms-office365-filtering-correlation-id: 6acd1d66-2b3d-482a-0a03-08dbb9b95a65
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ d2+kuRYJrlMdTFRvNz/6pkVQSdycx93NEvep3Way6z/4k2+CKVJ5HkSgEbq4zS/VJuqVyHVNfioCRd0VC9XPQDNXTEDz0ofWCkRzoKZ+avzA8AFLyadYtj+Zs5E/mVZtQrWVN+2VRJprjAHhy4E/rodI49ARjkkVpcDbDCKgh/7Ij+KXEiiHr2PjEg7YBn26Qz2j4wQ6c0O13Ef3uHxJPebSCdIQ+U7Qe3IS5UkB9QcGNDjqbKFtzdurN5SLZtR+beti5T1u+GUNYxz8UtWD+LLfBHkoxErNTVM7t2XPqE9NjXd+BC/5+DOdypHXYGfjCpWsnzLVJmQiJyTtxsY6EzUv4XMFhMOBmMSMIYZ5oM51NSP9DiF4y6fWwEwFStP2cXyA6qSyzLfvMHrPZ1cj/Q/lwfHRX7pPDM5iBylfxKPjJn2q/AIldmia6z4jJYGQBqiYEhaqmGvSproEfR1cjM6OFvdXNY+yDYP7hkuKEwBYi9vNvHtkfecsC/ZAN84702K1gPoPYjwDsjamAT7FzzK5gsoutRMkS4+EJ8MCM56BkWBBbiF2Xx1Bkb/ct8aA
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?Windows-1252?Q?QZ658LwCilkexLMTPyNAnMKdwU6d917lUcFch3+pdJuH92sGy7BRJrTY?=
+ =?Windows-1252?Q?pY/QmCAnlOcSZxk3NoRAPxTAKHovdlAdhux28SLrIZV3t4BnTJN4oFSP?=
+ =?Windows-1252?Q?m7Pu/+NPPFX9MHlS63vq4GbUVx86B29hNZ7Bp0FDAr4zEkNcAP7dk4A8?=
+ =?Windows-1252?Q?eaOhB5iRe08Xs+f5mkX08rgmL/9l0lEHZ6zLTcfdz6vacxt4ZN+fPic+?=
+ =?Windows-1252?Q?e+tNCJvqOpZ5gMYixf4hm6VpUgMRmflW2VdDPbDUmPzN4d3+R9RqDLTU?=
+ =?Windows-1252?Q?P26OIda8/r/afTawzdjrGRqC0jloOsx6k10h3WoUlEqpQ2zv03wn8NRE?=
+ =?Windows-1252?Q?hfG9ywS+Uts4CrT4A0RH0uM7QUosnNQ8F+E3pOmE0cubEr1BDcAJUukt?=
+ =?Windows-1252?Q?8OxcnlYFkIfDS3hydF4eDoxd90KZBO4RgUYyOGjk6VmMHW5paadG6Ncc?=
+ =?Windows-1252?Q?WUGcHv8TlqgXJJySjUme7W5vqrZFz1OAvaXvdAA2V2K/GhVGJPAdmCDS?=
+ =?Windows-1252?Q?O5WmPtwfosD+X8sXSqEDoWOsE/drv/eoJdceqPJJcSz6fy7Pc49t4CdO?=
+ =?Windows-1252?Q?ndT6eXAUcn5+bHA6bQkffki1QIFsUXo2QHc1mBI5+vzZuXSSxKuF4AjY?=
+ =?Windows-1252?Q?ibRvc7pSFGnL8ghNYmxqzb76g9bqwDHwMsQuoFnAFQdNir0o2tLSui6x?=
+ =?Windows-1252?Q?4HaApXrv3YFXXfJ6ES8TuHF5V1KKKKbd/FfDS5uaN8rXtsLj/TObFcnI?=
+ =?Windows-1252?Q?LDn5KJUQoSJS2l8vVRUDqOV2VWxu23xtn5Iy1jwofcO28XhuoaavUiUX?=
+ =?Windows-1252?Q?el1q9spQHFchtQ7Q7M0pmgErxJBtdtx+7F2yiPmZXgx7pMo+k1IVMloI?=
+ =?Windows-1252?Q?ZrCLO5JeUv+5Nsspfp5g+hCoIkRGdxFpdqCadFv12mx1vhaWPKNcpECU?=
+ =?Windows-1252?Q?FinehXjUBQdvjHei7B2rLW6xbPVFEDUrz023n2P0wbkckJyHNPH/cjiS?=
+ =?Windows-1252?Q?x8wUUx2Lil87Aw11e/nyZYVBd0pqW8nSw3ChwhLjrsH5oCjyQYLrN07x?=
+ =?Windows-1252?Q?kPJH+l9qEmzUaCHYjjPWw2Sv5b8MJqRXCm/TKnM8pZ6yAYTadkAQ4ONr?=
+ =?Windows-1252?Q?FQL6ARhbvAGZIBVpV8BJG9tyBgq2zn/8SVTVDr5iK5qGz+0GifhLTaZI?=
+ =?Windows-1252?Q?nhItFTAeNJ6gqtEhtBmVfHbN/5uuGH9fPlqI/bgLhG/pTxMBtNKkTbZJ?=
+ =?Windows-1252?Q?qyd4E88IsiUEUeigZzrMGSxe32Iw73jKfEQ+9nCJrxZ8hEvTfCLqAyAj?=
+ =?Windows-1252?Q?p/QJZQ=3D=3D?=
+Content-Type: multipart/alternative;
+	boundary="_000_DS0PR02MB95456FCEDFB286ECA56D7700ACF9ADS0PR02MB9545namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: DS0PR02MB9545.namprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: 6acd1d66-2b3d-482a-0a03-08dbb9b95a65
+X-MS-Exchange-CrossTenant-originalarrivaltime: 20 Sep 2023 09:09:53.9556
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ0PR02MB8644
+X-Spam-Status: No, score=1.3
+X-Spam-Score: 13
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "rs1.rcnoc.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hello Sir\Madam, I would like to discuss a business opportunity
+    with you. Are you looking for a highly creative App or want some additional
+    features with latest technological trends? 
+ Content analysis details:   (1.3 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  1.2 MISSING_HEADERS        Missing To: header
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [rohanpanday90[at]outlook.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [rohanpanday90[at]outlook.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--_000_DS0PR02MB95456FCEDFB286ECA56D7700ACF9ADS0PR02MB9545namp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hello Sir\Madam,
+
+
+
+I would like to discuss a business opportunity with you.
+
+
+
+Are you looking for a highly creative App or want some additional features =
+with latest technological trends?
+
+
+
+We are India Based mobile application Development Company; we have develope=
+d mobile applications for over 130+ clients around USA.
+
+
+
+Or need a native mobile app (Android/iOS & iphone) for your business/ fresh=
+ idea; our team of highly professional expert will be the right choice for =
+your project.
+
+
+
+Kindly share your project=92s specification and discuss in detail.
+
+
+
+Waiting for your prompt reply!
+
+
+
+Thank you!
+
+Rohan,
+
+App Development Executive
+
+--_000_DS0PR02MB95456FCEDFB286ECA56D7700ACF9ADS0PR02MB9545namp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<p class=3D"elementToProof" style=3D"margin-top: 0px; margin-bottom: 0px; f=
+ont-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvet=
+ica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">Hello Sir\Madam,&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">&nbsp;&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">I would like to discuss a business opportunity =
+with you.&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">&nbsp;&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">Are you looking for a highly creative App or wa=
+nt some additional features with latest technological trends?&nbsp;</span><=
+/p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">&nbsp;&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">We are India Based mobile application Developme=
+nt Company; we have developed mobile applications for over 130+ clients aro=
+und USA.&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">&nbsp;&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">Or need a native mobile app (Android/iOS &amp; =
+iphone) for your business/ fresh idea; our team of highly professional expe=
+rt will be the right choice for your project.&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">&nbsp;&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">Kindly share your project=92s specification and=
+ discuss in detail.&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">&nbsp;&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">Waiting for your prompt reply!&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">&nbsp;&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">Thank you!&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;" class=3D"elementToProof">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">Rohan,&nbsp;</span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-family: Aptos, Aptos_EmbeddedFon=
+t, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); background-color: white;" class=3D"elementToProof">
+<span style=3D"font-family: Calibri, &quot;sans-serif&quot;; font-size: 11p=
+t; color: rgb(34, 34, 34);">App Development Executive&nbsp;</span></p>
+</body>
+</html>
+
+--_000_DS0PR02MB95456FCEDFB286ECA56D7700ACF9ADS0PR02MB9545namp_--

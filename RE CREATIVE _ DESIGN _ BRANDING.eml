@@ -1,0 +1,423 @@
+Return-Path: <Sitalroyseoservice2@outlook.com>
+Delivered-To: info@samwell210furnishedapartments.com
+Received: from rs1.rcnoc.com
+	by rs1.rcnoc.com with LMTP
+	id IOQIOSkwHWWfhBoATlETxg
+	(envelope-from <Sitalroyseoservice2@outlook.com>)
+	for <info@samwell210furnishedapartments.com>; Wed, 04 Oct 2023 12:28:09 +0300
+Return-path: <Sitalroyseoservice2@outlook.com>
+Envelope-to: info@samwell210furnishedapartments.com
+Delivery-date: Wed, 04 Oct 2023 12:28:09 +0300
+Received: from mail-psaapc01olkn2027.outbound.protection.outlook.com ([40.92.52.27]:45581 helo=APC01-PSA-obe.outbound.protection.outlook.com)
+	by rs1.rcnoc.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <Sitalroyseoservice2@outlook.com>)
+	id 1qnyAp-008Fy7-33
+	for info@samwell210furnishedapartments.com;
+	Wed, 04 Oct 2023 12:28:09 +0300
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=HV3Or1Ka8wZVerZznOtMOLSQNkjFtocRlcKdWSwke4wlioFA/Hahsk78m+s3a6UQ8dDLEEwS+79xJWCfiUYIywwsTflLmPnsIfhhWWCSQ+YGFQh6GI8l9f8cUO/1X01xJQJOdhmWOUEHWd7a++R3+DUTetJS8sOGTBq0sioHQKd9ulT+FIFCgTtwYJ/onfG20bZeg460v8qebjwwXDydO1Vlw998/uTXCsGaVNEIggrLg8lZYlmfs75NY3eMjcjvV2pzFjU6+OzQqkkPeb134iLaA22R7ynWBH3/4rqNCPfPbME2FjASIOaA7vFbigmOXzrKMrxOXj4PmHgTngq5pw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=cngBH6AFBDgkZz+DunsUKDHzvgAb8wnxrvZ+J/mZ3xs=;
+ b=lQAl/TMW0S/fBA3anZYlwRBb4fCx4Nwcuo7eovMeq5GEN1D0WhdHkXSOa1KQeoiI4lejuwYhl56HqhGWWXwI+NPDtu/xl58iQr9LBaV2AS/g/nsXCMv2cv/mZyubrqpkiy948lL6a49zWFR6qY4eSFVkFj3VfbfhIeZJlFKkeWE8Ocq9tb10Nz1vHi8E/ReRWeoNySRSnZCO5q7aPva3P/MgmrR+XBdbQmsvsSqSypkub2vbbUDRKz1GDN6T7JghLUoOhDwbo/KpPRofcpOUCYdyJdyEcmUcdxYQx0DPVPCz2OJEpylVkACG6akIO00IgBKvp9kT63CNvj8wC+64dg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=cngBH6AFBDgkZz+DunsUKDHzvgAb8wnxrvZ+J/mZ3xs=;
+ b=YN2O/rJ6GlpClpBvRJqKZQ2phow+29DYxgGOYHdHRUcdy/QFLFeFpNWaq4mF+vdYYo0jAZmZ5KkEK1NaUeJWhl4HLvHMzRL0vXt/J4h0mxn1G6LW0sKuPOVhJk8ax88gDA41Srm6GMEtU4Af1pM8bKdqr5sGdYM6o4yuTNwuO/FjZzs4Py1DEG2G1Y8acKy4JXeiQ9ZqTXmnt/JSwyb42nZgPFXZ5W2tACZrTHRiNv1rMuQJYLg0UpdMusfMKuSrR3HBPtcCVIyoxbddgCpHII6ba+veEuu0zJ6v8AXsOrGJVtCGaugcU+wIGwjr57c41A/Uw9mK+bt6yDJXPrBoBQ==
+Received: from SEYPR04MB5836.apcprd04.prod.outlook.com (2603:1096:101:80::9)
+ by SI2PR04MB4282.apcprd04.prod.outlook.com (2603:1096:4:f4::7) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.6838.35; Wed, 4 Oct 2023 09:26:02 +0000
+Received: from SEYPR04MB5836.apcprd04.prod.outlook.com
+ ([fe80::37d0:d91f:6fa4:f579]) by SEYPR04MB5836.apcprd04.prod.outlook.com
+ ([fe80::37d0:d91f:6fa4:f579%5]) with mapi id 15.20.6838.033; Wed, 4 Oct 2023
+ 09:26:02 +0000
+From: "Sital" <Sitalroyseoservice2@outlook.com>
+To: "Sital" <Sitalroyseoservice2@outlook.com>
+References:
+In-Reply-To:
+Subject: RE: CREATIVE | DESIGN | BRANDING
+Date: Wed, 4 Oct 2023 14:52:02 +0530
+Message-ID:
+ <SEYPR04MB58366F9630E4F3E30AB3CC55EDCBA@SEYPR04MB5836.apcprd04.prod.outlook.com>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0047_01D9F6D2.854866E0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Adn0Tev9QLLUM/BgQf6W6HeYPYz22ACR520A
+Content-Language: en-us
+X-TMN: [sramli9S3egru4ydd1frUNe+xIlpV4v7q1rdGdL3nglMyWRoH7T18azuX2vCUdgi]
+X-ClientProxiedBy: PN3PR01CA0195.INDPRD01.PROD.OUTLOOK.COM
+ (2603:1096:c01:be::23) To SEYPR04MB5836.apcprd04.prod.outlook.com
+ (2603:1096:101:80::9)
+X-Microsoft-Original-Message-ID: <004601d9f6a4$6b902ae0$42b080a0$@com>
+MIME-Version: 1.0
+X-MS-Exchange-MessageSentRepresentingType: 1
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: SEYPR04MB5836:EE_|SI2PR04MB4282:EE_
+X-MS-Office365-Filtering-Correlation-Id: b5dd1997-e4b2-4bcd-1fa0-08dbc4bbebd7
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info:
+	4jHOyn5AMYDOfT0YAGY2MuFa8QpeI8PMvpJaL2WiDpPUXbwzWHzOcGqPPHWbf6DPmwMRtXJpWkPyRrZljg+dVdu3B172s/v2cbM9ozR9mbus+KenC0lc9bcXNehJve1s7HzaJzxbithXsjudzqgUMH1H1JR1pTSEaPG+Y3KIQknf3rUQTj21jKu5wqDmRjD+oHJPdBqz/sv6xKzSwbbSAKsr/+SvybMUAfrG5f8KXIe4U8xXsjQ8DeinH70BPA1gpNqbTwaTLWDzIsc4zb7gOVw2e/jNBi/DXdm2K9U0g3VASo+zDMv03W19f6ms5PTt3U14gLSSEg90ZMH3oxdbrpOvF5yePsmEs/enmrAa87r1X/d3UscjfhnHVCzaU7DD7/9CpVGyZoGLKTUnq0hyyMDAZvcUWDgjPA5uFj9s6zPvtfhgkWo9DSbE521zL8zjL193wxusl6cA/ieDQ/va0DV141F/tINHajUGL9lEhuJ6PBOkyWcrR/mBoJ+nUpjkIpzwOauUHkGxjD1JbSh5bANIj2B/jO6gDVjY9gR9P3o+2Py7zygZM72+/8SufxfmJQY6JPH8SCcNvhMKec0LuZ9fPwlX1nqV66GL3ZCEVGbzFn20pRqtUUV6c7iVYNlA
+X-MS-Exchange-AntiSpam-MessageData-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-0:
+	=?us-ascii?Q?r1cnfgPCuDbQH2Y+8QtKVDK/cO+f9AJMgRPD5lb80XM0nrShQ9UXPLTi35GX?=
+ =?us-ascii?Q?76MzB9MzuO5AJYMkNJBLsNQJhaeKB1Ay5aXNFpjJtFmeSXqV9jnElB31jquH?=
+ =?us-ascii?Q?svPUbWAJq5Sh5RqAAflAgUzmvTk+su2Ff+oxSASEVEU0pKOqW7NH3ypq/i5N?=
+ =?us-ascii?Q?hp7lzlegETeLrcauTPrRi64GL+Mo4Zdk4PjpbN65mq98bpDbudFoOwjXC83u?=
+ =?us-ascii?Q?B4HcV/Xr53JUVcbUAlNDJFXwWLykCvVCxgT02H4q6GENT6xqSgHdaKvdeGfC?=
+ =?us-ascii?Q?CW8Odg9p+YcJauOA5e7qY3QFmpoWf0m1Z0W+2zbsf4gJSGQlSlrgT7X2T+t6?=
+ =?us-ascii?Q?iV8hQajQYNm2p4HU+FDORkXMPsxWW5m52JLZ7ythRDu4DszUBS+8y6Aldn8h?=
+ =?us-ascii?Q?jk309YZbgsSwCk2zz1doQIWfDASvJ/YtypJq8c5mdi3p+dxivPRjUqNa7gEe?=
+ =?us-ascii?Q?l/VJCaFN1EE1mkMTM62TvLFefyGyjkbcbK5qyqZTlEO2/lB7h128xc62ezhg?=
+ =?us-ascii?Q?1+uQcz54UQjfxF+Wkb9v/Ba0FXDit+ePNsyhwwIYsRwVHfTEbJq1LrYXeepm?=
+ =?us-ascii?Q?JiP92McgHJcbzw+d2eRK4SIbloR9xVHOxDvX0rlCP5oDPwy+5Lg+1GfZqQnu?=
+ =?us-ascii?Q?H/MixAst6Fd41Qw+w/btYvymsEYLe8ypVOGcGSKuGBHY1ChJ74Z47UJF79hi?=
+ =?us-ascii?Q?7x4X47JTPUFqOFauWVl0kkdcC236veyMqLbwwNvR4OZ/+x9MwU+QvJPG2ftB?=
+ =?us-ascii?Q?fdyQCeAGfVoqtPsNU19oSKLvEX6ZZ8PL+lVWKZ6JQUcm70DXGevcfdlmi51Q?=
+ =?us-ascii?Q?Ij3hTUYijk5K98F64fW1s57hSKPwSenDZo//cYAaqMQ6wadBSTq59dSRdAut?=
+ =?us-ascii?Q?voxI65JS0PQwyCFtRLd3fIMTOjjTSY7hy7fA9X7xdyG8Ci9T/pXQhgjMd//E?=
+ =?us-ascii?Q?2Jmh11Kk3F8p80+VZfg7Jc5zkwjEyKMo83CfWryU5pdXSMheGFn8GJGKgGzR?=
+ =?us-ascii?Q?QUehFLnEpm8oWI9hP7RYZd6ZORGedHoQ2xIWUTxV3cOPTL5U8cM6fHCCTEB0?=
+ =?us-ascii?Q?6y9FeQ61HwTP3Z3aa+nXxBGoWsyoTZCg/PNNYiFiiwepMwP/UR0sErYo+twP?=
+ =?us-ascii?Q?hVQqVjz4w/eButOx8ej/VcPTUzlIwfb+BCPCLvjBDieRiDIUAcUabWEX4OAi?=
+ =?us-ascii?Q?DC86Ufyh2SLSoMEoMMb/PHjzj2sNaVZVVP35VtVlkdvHUmmcbvt8VlDSNJK0?=
+ =?us-ascii?Q?iDOEXkHJS/k6D7uSYzK/ojuxEjrVaAi8+B3P+5ZewIiVpSpmSj7kghgAfV2p?=
+ =?us-ascii?Q?dZlAY4476YgHmM4Rkd4cIPXv?=
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: b5dd1997-e4b2-4bcd-1fa0-08dbc4bbebd7
+X-MS-Exchange-CrossTenant-AuthSource: SEYPR04MB5836.apcprd04.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Oct 2023 09:26:01.6888
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:
+	00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SI2PR04MB4282
+X-Spam-Status: No, score=0.6
+X-Spam-Score: 6
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "rs1.rcnoc.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi There, Just wanted to check, have you checked my previous
+    e-mail? If you are interested let me know please. Looking forward for your
+    positive response. 
+ Content analysis details:   (0.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [sitalroyseoservice2[at]outlook.com]
+  0.5 SUBJ_ALL_CAPS          Subject is all capitals
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [sitalroyseoservice2[at]outlook.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+X-Spam-Flag: NO
+
+------=_NextPart_000_0047_01D9F6D2.854866E0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi There,
+
+ 
+
+Just wanted to check, have you checked my previous e-mail? If you are
+interested let me know please.
+
+ 
+
+Looking forward for your positive response.
+
+ 
+
+From: Sital [mailto:Sitalroyseoservice2@outlook.com] 
+Sent: Sunday, October 01, 2023 3:43 PM
+Subject: CREATIVE | DESIGN | BRANDING
+
+ 
+
+Hi, 
+
+ 
+
+Would you be interested in building your Mobile app or any types of Software
+development?
+
+We have developed 100s of applications such as : - (Android/iOS app/window
+app)
+
+ 
+
+.         Food Delivery Apps // Restaurant Apps
+
+.         E- Commerce apps//M- Commerce Apps// E-learning App
+
+.         Health & Wellness Apps
+
+.         Shop & Store APPS
+
+.         Logistics and Accessibility Apps
+
+.         Taxi and Travel Apps
+
+.         Your Business Apps (Billing, buying, booking, finance, tracking
+Apps etc...)
+
+.         Lifestyle Apps (Dating, Texting, Music) Book & Utility, Shopping
+Apps Etc.)
+
+ 
+
+I can build the APPS to your exact requirement in your budget and as per
+your timeline.
+
+ 
+
+Thanks & Regards,
+
+Sital
+
+Marketing Manager (India)
+
+ 
+
+Note: -Please let us know your App's idea, exact requirementwith us which
+kinds of Mobile App and for which service you want so that we can provide
+solutions accordingly.
+
+ 
+
+ 
+
+ 
+
+
+------=_NextPart_000_0047_01D9F6D2.854866E0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+
+<div class=3D"Section1">
+
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Hi There,<o:p></o:p></=
+span></p>
+
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Just wanted to check, =
+have you
+checked my previous e-mail? If you are interested let me know please.<o:p><=
+/o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Looking forward for yo=
+ur
+positive response.<o:p></o:p></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+
+<div>
+
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Sital
+[mailto:Sitalroyseoservice2@outlook.com] <br>
+<b>Sent:</b> Sunday, October 01, 2023 3:43 PM<br>
+<b>Subject:</b> CREATIVE | DESIGN | BRANDING<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class=3D"MsoNoSpacing"><a name=3D"_GoBack"><span style=3D"color:#215868"=
+>Hi, </span></a><span style=3D"color:#215868"><o:p></o:p></span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#215868"><o:p>&nbsp;</o:p></=
+span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#215868">Would you be intere=
+sted in
+building your Mobile app or any types of Software development?<o:p></o:p></=
+span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#215868">We have developed 1=
+00s of
+applications such as : - (Android/iOS app/window app)<o:p></o:p></span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#0070C0"><o:p>&nbsp;</o:p></=
+span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#0070C0">&#8226;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Food Delivery Apps // Restaurant Apps<o:p></o:p></span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#0070C0">&#8226;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+E- Commerce apps//M- Commerce Apps// E-learning App<o:p></o:p></span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#0070C0">&#8226;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Health &amp; Wellness Apps<o:p></o:p></span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#0070C0">&#8226;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Shop &amp; Store APPS<o:p></o:p></span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#0070C0">&#8226;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logistics and Accessibility Apps<=
+o:p></o:p></span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#0070C0">&#8226;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Taxi and Travel Apps<o:p></o:p></span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#0070C0">&#8226;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Your Business Apps (</span><span style=3D"color:black">Billing, buying, boo=
+king,
+finance, tracking Apps etc...)</span><span style=3D"color:#0070C0"><o:p></o=
+:p></span></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#0070C0">&#8226;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lifestyle Apps (</span><span style=3D"color:black">Dating, Texting, Music) =
+Book
+&amp; Utility, Shopping Apps Etc.)</span><span style=3D"color:#0070C0"><o:p=
+></o:p></span></p>
+
+<p class=3D"MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+
+<p class=3D"MsoNoSpacing"><b>I can build the APPS to your exact requirement=
+ in your
+budget and as per your timeline.<o:p></o:p></b></p>
+
+<p class=3D"MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#215868">Thanks &amp; Regard=
+s,<o:p></o:p></span></p>
+
+<p class=3D"MsoNoSpacing"><b><u><span style=3D"color:#215868">Sital</span><=
+/u><span style=3D"color:#215868"><o:p></o:p></span></b></p>
+
+<p class=3D"MsoNoSpacing"><span style=3D"color:#215868">Marketing Manager (=
+India)<o:p></o:p></span></p>
+
+<p class=3D"MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+
+<p class=3D"MsoNoSpacing"><b>Note: -</b><span style=3D"color:#0070C0">Pleas=
+e let us
+know your </span><b>App's idea, exact requirement</b><span style=3D"color:#=
+0070C0">with
+us which kinds of Mobile App and for which service you want so that we can
+provide solutions accordingly.</span><o:p></o:p></p>
+
+<p class=3D"MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+
+<p class=3D"MsoNoSpacing"><o:p>&nbsp;</o:p></p>
+
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_0047_01D9F6D2.854866E0--

@@ -1,0 +1,207 @@
+Return-Path: <mariasingh52@hotmail.com>
+Delivered-To: info@samwell210furnishedapartments.com
+Received: from rs1.rcnoc.com
+	by rs1.rcnoc.com with LMTP
+	id OOEYHmKiCWXsRwgATlETxg
+	(envelope-from <mariasingh52@hotmail.com>)
+	for <info@samwell210furnishedapartments.com>; Tue, 19 Sep 2023 16:30:10 +0300
+Return-path: <mariasingh52@hotmail.com>
+Envelope-to: info@samwell210furnishedapartments.com
+Delivery-date: Tue, 19 Sep 2023 16:30:10 +0300
+Received: from mail-tyzapc01olkn2068.outbound.protection.outlook.com ([40.92.107.68]:48705 helo=APC01-TYZ-obe.outbound.protection.outlook.com)
+	by rs1.rcnoc.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <mariasingh52@hotmail.com>)
+	id 1qianq-002CeS-18
+	for info@samwell210furnishedapartments.com;
+	Tue, 19 Sep 2023 16:30:10 +0300
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=b84bV4M1nmuf6o9E2kJNXlI7yMWWHv1zlu/4kbSjyT2MMJENm1ctD8Yl1iwP8N/fQFqSJiSehbYhoroPNH7kqvtDSUipA7cRy4RD+qPd4ydl0euGsBF+RI22XF+zWMZjiRHdmZQTWgN+8jjFlP7u+FzMnrgjm7AJ1fx0qYoB3VocITEnBe6iG7ucsAZv8VysbhSSLrvAHBgA9kTF83eYMihRycPMHcKRCiusUsmr3mt32/lODsL66Pz6nOO2FgBqy+62EnqAuEJTM/KuVcQ83RdyEUj+umvFMc1kY7yx4WT3eoB9Nm9u0miJeVjMrP7wweHeco3Ebtokm+NCMEig0w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=HqEHvBJMjAYqlLTlZkuGFGZ+G9KQIEHx0C1sTUTgBoU=;
+ b=K+STmy23I2J45dua+zz5WMoY/HdBVKCNqJH8rn1my3YgVGXAffV/qfa/OWtHdc5wp1RuRxWu/op9cVg5l6vddMLDV94En3qufkiTiwZb8yh16DRCQeEMvHeWJczNslcqM/sYyRpCPPItDW+AaeDVpKyb0YD6cnmkKteqR6/K1Pcr4d5e8LoAnowO348qFCFBeXjToeh+n4LJ3PPL77F58V2g1+HVOkOq/gpSRKuaM/yBAe+7jDoiEGARoGESqYd17bnPnLNNfcaCuiHK5M1U4v4arvYrZuJP2Hgpk1j3lWqQ78bBUrUcaAlGbgXM4ecZ/BURSGk0Kz4jiWeoqlaQNg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=HqEHvBJMjAYqlLTlZkuGFGZ+G9KQIEHx0C1sTUTgBoU=;
+ b=mO8Z6T5F5ONF9X08OMs4T7NWZbdBYBzNZLY24oBd+ofvnVBbZXbjtkXVu/FUdk0UcwjzUGkT6D2wuWy9z2OdLOSL9IUvCJmITIDHzUwXZo4eQBJJvTGgm85TNV8dpL4t08wfeELw42PhiHhHC8mPyxCU0V5W6voXw5rTAxgFsJZo4Ibfd8vTtrGc9nPquMjxy3+pJ5d8oj5XjjyMw9k51c7wSFaQpa/iZCoPWUSpKqAY+O+r//jQ3OeaehTP/ReiQ9xSUvzbeRkKRkxA1qUxog07yVl6214krNiyOdJZQsb9gR32GyHHxiDJJtZZvlKPuyHCvEgQxLTp7rzbMMn1Mg==
+Received: from SEZPR01MB4231.apcprd01.prod.exchangelabs.com
+ (2603:1096:101:4e::11) by SI2PR01MB4347.apcprd01.prod.exchangelabs.com
+ (2603:1096:4:1af::14) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6792.24; Tue, 19 Sep
+ 2023 13:28:23 +0000
+Received: from SEZPR01MB4231.apcprd01.prod.exchangelabs.com
+ ([fe80::38c8:9a64:bb7d:4e8d]) by SEZPR01MB4231.apcprd01.prod.exchangelabs.com
+ ([fe80::38c8:9a64:bb7d:4e8d%4]) with mapi id 15.20.6792.021; Tue, 19 Sep 2023
+ 13:28:23 +0000
+From: Maria singh <mariasingh52@hotmail.com>
+Subject: Keyword Optimization...!
+Thread-Topic: Keyword Optimization...!
+Thread-Index: AQHZ6v0pS0V6kiJcq0ue/3mKfC6mxw==
+Date: Tue, 19 Sep 2023 13:28:22 +0000
+Message-ID:
+ <SEZPR01MB4231B9E62078E0584EC2373EC5FAA@SEZPR01MB4231.apcprd01.prod.exchangelabs.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+msip_labels:
+x-tmn: [AQlB/p2CmRBJirTiSxVOvYBjAGvaLS5R]
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: SEZPR01MB4231:EE_|SI2PR01MB4347:EE_
+x-ms-office365-filtering-correlation-id: 76e0b16b-718f-455b-6ea4-08dbb9144b93
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 9C3jiPnKqfyhjiqir2UFwhdA89Ak5ghAQQFtfhQdwe5tkA92kZ4oKw3jwFe7Ls3SvfUX2EB3USUhVFsZUdbInXYIKIFJxP6KVvphBQFZjzvEOrvLlnkaFKNwQVTxfOmc0f7WHmX81bJprL3cdBoTR01joWQloLs7+nCLJR9ewiu0yMDOH/ZVrLBaxGCE3W43dYPtRilXxKPrL8TZHPBmgOoMgzB5IP+08vrdWaCSnlOkbYN6dzOTYBIb9Zhb50OhmmDSCrK5F204qzR0GlZhmcQ1Il9OG6esj2QGaiiFc4iYZPp38BLfvAXzJ5+SDuKI51Yud8CgNG9YwhkYz/d7p5GJ0CZI7PBOkVS5/NyVkncqxl66SNSlw6Eg90N0LhVdy0rAGspQJR8Yz9QDGGcfq1OhLrbXmLH+PqMBzOcGHIzUTAz8r2EHFV8Zo69Wdjaf4FjcrURgegQ7CrXpxhIe1H0p3FBPYwEA5rplJATWxwXmgqyvpds76WtgBLCJKk3HlBCv3aXG12zRMn0dWY5jH284MHCIpLz/4QFFh4PVZM3892ZTvz2H0zK6GEuxsqGn
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?Windows-1252?Q?7Ew7LDi8mniuQMYI07Ufjf8W90o1rjkKXxSu3J5OgQzBkiCqtQhjJ9/+?=
+ =?Windows-1252?Q?WWDbjCokz9RFqX+cBaldrDmpavJZkc/rXQw13JVWsWrhvhmdhD8PNQUb?=
+ =?Windows-1252?Q?jD7jzLN5p1oJbvZTiP9F35u7HtprtrJ1LUhhGpPQAMwJAyijJZh1Y6AF?=
+ =?Windows-1252?Q?/PqDvp7WPYVZUe0SFWJVsBpdPv8by7lnsdOzKXNNrue4Hjt8xIG9myNn?=
+ =?Windows-1252?Q?+4q/F/zOYwGU2D1KLZH0QZBZiRyoZnxnQLIUfNUPEQYEqTANq9GXVsi2?=
+ =?Windows-1252?Q?1/H0pDvpxse0JRoCPVaefgrRfouSxysKk8jW4oiEB5RpkCXKGdtKKQh0?=
+ =?Windows-1252?Q?5LwRvx+jVfgEe90t06dLXr+7nNavdSeZWXFKuS956UsJGjWNL+YiD592?=
+ =?Windows-1252?Q?8Ka6Oj+UPCzjYz+EXGxRThS3E9eIWtNxTTfqVQt52z1UiSo9erCXXrAU?=
+ =?Windows-1252?Q?KRfvPHRbS62/t6JUUA4PiMwr4lHnzD5bNtuYEV5pl3RNJGcAA/GKZiL2?=
+ =?Windows-1252?Q?UTi6dFxIEnG6OVg5bZ96+js2zrqUfeotVYdEUMMd0M3ISKnlGapc98So?=
+ =?Windows-1252?Q?pqKDH43kgZz25Umi3OkJH9gk0QmWfV6xuxlGM1HbT20JKMhxknB4DzlF?=
+ =?Windows-1252?Q?xCIo2cph2ISuHHm4u20/eFsdhp2OiMbTv7y/q1RJsHuY+bsSarp5EKWm?=
+ =?Windows-1252?Q?9hukC3gp0MrtFK/JJQCQxu8tCvFKdBaxdKihTYN9Q4kUwX/Crt8a2w8Z?=
+ =?Windows-1252?Q?gWLzOU6GITV/np+91xs7DmiVpYY6PsnaKA352mBby1Rwm3CvfhPJMNJX?=
+ =?Windows-1252?Q?drV5cZgfnWrYNxWHkRgCQ99D0d4Pgkj9wHU6kGqu68XrNDD/yO9+yyO8?=
+ =?Windows-1252?Q?n0rnWIkD2wAvGjqwljLeYW/vIAoq8mTtyrcnIQh0FakMK/Bj5+CFZalJ?=
+ =?Windows-1252?Q?itfz0QyN2seBkVk2QK6sn/ZMbL1uZc/nJHj8WVSGwJ7qpGZWknYvm/ps?=
+ =?Windows-1252?Q?odWRGNuEUwGa1PD3IAn2cLcQX2wLlQNs9uwEvqz9ZesiqJObfHffNT0H?=
+ =?Windows-1252?Q?FIh3fdjiFIs0ISVLAbVB0f4Vo2xzIJw3jwDVdPeL7nmvfmnP1YDUvaeB?=
+ =?Windows-1252?Q?WndUvW/QF81bpdN5oqMHPB5GYcyzI/JVpBufNHrmBkQaAZRtGJDdnhzk?=
+ =?Windows-1252?Q?i3egf3FKECgvUTH8yhxfnIYidVjsSchZpHLvwFPWLuT2G8zjeEKNZXga?=
+ =?Windows-1252?Q?9wHXCSfJUEVt3wpR0QzPP28pXW+D0yP4taZBvOnJh+GYn+5UioI1vP0M?=
+ =?Windows-1252?Q?Hw8jOg=3D=3D?=
+Content-Type: multipart/alternative;
+	boundary="_000_SEZPR01MB4231B9E62078E0584EC2373EC5FAASEZPR01MB4231apcp_"
+MIME-Version: 1.0
+X-OriginatorOrg: sct-15-20-4755-11-msonline-outlook-d8e84.templateTenant
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: SEZPR01MB4231.apcprd01.prod.exchangelabs.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: 76e0b16b-718f-455b-6ea4-08dbb9144b93
+X-MS-Exchange-CrossTenant-originalarrivaltime: 19 Sep 2023 13:28:22.0968
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SI2PR01MB4347
+X-Spam-Status: No, score=1.3
+X-Spam-Score: 13
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "rs1.rcnoc.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi, I've got your details on Google.com, and I've seen your
+    website and found that its design is great, but your website's ranking isn't
+    good on all search engines, including Google, AOL, Yahoo, and B [...] 
+ Content analysis details:   (1.3 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.2 MISSING_HEADERS        Missing To: header
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [mariasingh52[at]hotmail.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [mariasingh52[at]hotmail.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+--_000_SEZPR01MB4231B9E62078E0584EC2373EC5FAASEZPR01MB4231apcp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+I've got your details on Google.com, and I've seen your website and found t=
+hat its design is great, but your website's ranking isn't good on all searc=
+h engines, including Google, AOL, Yahoo, and Bing.
+Do you want more targeted visitors to your website?
+We can place your website on the first page of Google=97Yahoo, AOL, Bing, e=
+tc.
+Let me know what you think.
+Thanks,
+Note: - We will be more than happy to send you past work, pricing and propo=
+sals.
+
+
+--_000_SEZPR01MB4231B9E62078E0584EC2373EC5FAASEZPR01MB4231apcp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0);" class=3D"elementToProof">
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;font-size:11pt;font-fam=
+ily:Calibri, &quot;sans-serif&quot;">
+<span style=3D"font-family:&quot;Book Antiqua&quot;,&quot;serif&quot;" clas=
+s=3D"ContentPasted0">Hi,<o:p class=3D"ContentPasted0">&nbsp;</o:p></span></=
+p>
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;font-size:11pt;font-fam=
+ily:Calibri, &quot;sans-serif&quot;">
+<span style=3D"font-family:&quot;Book Antiqua&quot;,&quot;serif&quot;" clas=
+s=3D"ContentPasted0">I've got your details on Google.com, and I've seen you=
+r website and found that its design is great, but your website's ranking is=
+n't good on all search engines, including Google, AOL, Yahoo,
+ and Bing.<o:p class=3D"ContentPasted0">&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;font-size:11pt;font-fam=
+ily:Calibri, &quot;sans-serif&quot;">
+<span style=3D"font-family:&quot;Book Antiqua&quot;,&quot;serif&quot;" clas=
+s=3D"ContentPasted0">Do you want more targeted visitors to your website?<o:=
+p class=3D"ContentPasted0">&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;font-size:11pt;font-fam=
+ily:Calibri, &quot;sans-serif&quot;">
+<span style=3D"font-family:&quot;Book Antiqua&quot;,&quot;serif&quot;" clas=
+s=3D"ContentPasted0">We can place your website on the first page of Google=
+=97Yahoo, AOL, Bing, etc.<o:p class=3D"ContentPasted0">&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;font-size:11pt;font-fam=
+ily:Calibri, &quot;sans-serif&quot;">
+<span style=3D"font-family:&quot;Book Antiqua&quot;,&quot;serif&quot;" clas=
+s=3D"ContentPasted0">Let me know what you think.<o:p class=3D"ContentPasted=
+0">&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;font-size:11pt;font-fam=
+ily:Calibri, &quot;sans-serif&quot;">
+<span style=3D"font-family:&quot;Book Antiqua&quot;,&quot;serif&quot;" clas=
+s=3D"ContentPasted0">Thanks,<o:p class=3D"ContentPasted0">&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;font-size:11pt;font-fam=
+ily:Calibri, &quot;sans-serif&quot;">
+<span style=3D"font-family:&quot;Book Antiqua&quot;,&quot;serif&quot;" clas=
+s=3D"ContentPasted0">Note: - We will be more than happy to send you past wo=
+rk, pricing and proposals.<o:p class=3D"ContentPasted0">&nbsp;</o:p></span>=
+</p>
+<br>
+</div>
+</body>
+</html>
+
+--_000_SEZPR01MB4231B9E62078E0584EC2373EC5FAASEZPR01MB4231apcp_--
